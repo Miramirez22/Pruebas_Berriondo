@@ -1,5 +1,0 @@
-# ignorar pycache
-__pycache__/
-*.pyc
-
-db.sqlite3
